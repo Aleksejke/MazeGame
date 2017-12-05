@@ -1,0 +1,6 @@
+/dist/
+
+*.class
+*.war
+*.jar
+*.ear
