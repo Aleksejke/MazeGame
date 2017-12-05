@@ -1,6 +1,6 @@
 /dist/
 
-*.class
-*.war
-*.jar
-*.ear
+/*.class
+/*.war
+/*.jar
+/*.ear
